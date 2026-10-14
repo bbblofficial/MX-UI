@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.bak
+.venv/
+venv/
+.git/
+.idea/
+.vscode/
+*.log
+data/
+bin/
+fixer.py
+.env
